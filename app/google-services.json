@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105482037496",
+    "project_id": "android-realtime-example",
+    "storage_bucket": "android-realtime-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105482037496:android:4015b3d58edf4e8d69730d",
+        "android_client_info": {
+          "package_name": "com.ismailaamassi.androidrealtimeexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105482037496-h1c4eon19vrln16ioks6763fngi5mo5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRGi_BsiJ-xxnauoMIK0ZQr0qbyrkO58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105482037496-h1c4eon19vrln16ioks6763fngi5mo5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
